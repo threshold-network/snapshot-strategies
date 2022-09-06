@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "threshold-network-staking-from-subgraph",
+      "params": {
+        "subGraphURL": "https://api.studio.thegraph.com/query/24143/main-threshold-subgraph/0.0.6"
+      }
+    },
+    "network": "1",
+    "addresses": [
+      "0x461aa63A98e6f8BdAa19CA3f2258670E794FFF34",
+      "0x63E81D7025706D795AB170ef9783D18816AB1481",
+      "0x6950c4C7E97c7d2e6b5bffEC4634f841DB2A5f3D",
+      "0x56C968857EF4919c67d151b56E7073065994c97a",
+      "0x580d408aed344065A8F143404C1aC657FAd47185",
+      "0x8b055ac1c4dd287E2a46D4a52d61FE76FB551bD0",
+      "0xbCdffff120C4e2f1199317A9448e99Eb02771496",
+      "0xbd7157f5beb24525add6c4c0559c5261b5e16742",
+      "0xbd8089304c78AA865B84870f62c4C43D6f3F34F9",
+      "0xfffE75557E73eAF670174d7B5fE348E31071b5c6"
+    ],
+    "snapshot": 15449618
+  }
+]
